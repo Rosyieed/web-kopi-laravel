@@ -1,0 +1,79 @@
+*, html{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: transparent;
+    font-family: 'Pacifico', cursive;
+    transition: 0.5s ease-in-out;
+}
+
+.navbar-scrolled{
+    background-color: black;
+}
+
+.nav-item a:hover{
+    background-color: rgb(199, 130, 38);
+    border-radius: 3px;
+}
+
+.nav-item a{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img{
+    width: 40%
+}
+
+.logo{
+    font-size: 30px;
+}
+
+.desk h5{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+    
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+
+  @media (min-width: 992px) {
+    #home {
+        height: 620px;
+      }
+
+    .bg-img {
+        height: 500 px;
+        background-size: cover;    
+    }
+
+    .about-desk{
+        margin-top: 0;
+    }
+
+    .about{
+        width: 100%;
+    }
+
+    .contact{
+        width: 100%;
+    }
+
+}
