@@ -24,10 +24,6 @@ Berikut struktur folder dalam aplikasi ini:
 * XAMPP
 
    Download [XAMPP](https://www.apachefriends.org/download.html) sesuai OS (Operating System) masing-masing, kemudian install sesuai petunjuk.
-
-*  Bootstrap
-
-   Download [Bootstrap V5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
    
 ## Usage
 
